@@ -1,0 +1,19 @@
+.kontainer{
+    background-color: #fffaf0;
+    padding: 13% 10% 13% 10%;
+}
+
+.masukkan{
+    background-color: #8ecae6;
+}
+
+.keterangan{
+    color: black;
+    opacity: 0.4;
+}
+
+.submit{
+    background-color: #023047;
+    width: 9rem;
+    color: #ffb703;
+}
